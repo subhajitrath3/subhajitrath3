@@ -21,6 +21,7 @@
 # Project Name
 
 ![My Badge](https://holopin.me/subhajitrath3)
+![My Badge](https://github.com/subhajitrath3/subhajitrath3/blob/main/Subhajit_Rath_Badge_Contributor_GSSoC2024-Extd.png)
 
 
 <h3 align="left">Languages and Tools:</h3>

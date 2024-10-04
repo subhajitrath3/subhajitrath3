@@ -18,6 +18,10 @@
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rath_subha80633" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="rath_subha80633" height="30" width="40" /></a><a href="https://linkedin.com/in/Subhajit Rath" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Subhajit Rath" height="30" width="40" /></a><a href="https://instagram.com/somusubhrath" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="somusubhrath" height="30" width="40" /></a></p>
+# Project Name
+
+![My Badge](https://holopin.me/subhajitrath3)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">

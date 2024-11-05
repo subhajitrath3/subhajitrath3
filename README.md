@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm SUBHAJIT RATH</h1>
-<h3 align="center">Aspiring Fullstack Web Developer</h3>
+<h3 align="center">Aspiring Software Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhajitrath3&label=Profile%20views&color=0e75b6&style=flat" alt="subhajitrath3" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhajitrath3&theme=" alt="subhajitrath3" /></a> </p>
@@ -20,9 +20,9 @@
 <a href="https://twitter.com/rath_subha80633" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="rath_subha80633" height="30" width="40" /></a><a href="https://linkedin.com/in/Subhajit Rath" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Subhajit Rath" height="30" width="40" /></a><a href="https://instagram.com/somusubhrath" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="somusubhrath" height="30" width="40" /></a></p>
 # Project Name
 
-![My Badge](https://holopin.me/subhajitrath3)
-![My Badge](https://github.com/subhajitrath3/subhajitrath3/blob/main/Subhajit_Rath_Badge_Contributor_GSSoC2024-Extd.png)
+## Badges
 
+[![An image of @subhajitrath3's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/subhajitrath3)](https://holopin.io/@subhajitrath3)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">

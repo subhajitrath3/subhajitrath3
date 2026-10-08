@@ -1,65 +1,195 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+
 <h1 align="center">Hi 👋, I'm SUBHAJIT RATH</h1>
-<h3 align="center">Aspiring Software Developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhajitrath3&label=Profile%20views&color=0e75b6&style=flat" alt="subhajitrath3" /> </p>
+<h3 align="center">Computer Science & Engineering Undergraduate | Aspiring Software Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhajitrath3&theme=" alt="subhajitrath3" /></a> </p>
-
-- 🌱 I’m currently learning **MERN stack**
-- 💬 Ask me about **Fullstack web development with the MERN stack, Building dynamic web applications with React, Setting up and managing MongoDB databases, Server-side development with Node.js and Express.js, Frontend state management with React hooks, Deploying MERN applications to the cloud**
-- 📫 How to reach me **subhajitrath3@gmail.com**
-- ⚡ Fun fact **When I'm not coding, you can find me gaming or exploring new tech gadgets.**
-
-<div> <a href="https://twitter.com/rath_subha80633" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/Subhajit Rath" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/subhajitrath3" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/somusubhrath" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:subhajitrath3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rath_subha80633" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="rath_subha80633" height="30" width="40" /></a><a href="https://linkedin.com/in/Subhajit Rath" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Subhajit Rath" height="30" width="40" /></a><a href="https://instagram.com/somusubhrath" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="somusubhrath" height="30" width="40" /></a></p>
-# Project Name
-
-## Badges
-
-[![An image of @subhajitrath3's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/subhajitrath3)](https://holopin.io/@subhajitrath3)
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="Mongodb" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=subhajitrath3&label=Profile%20views&color=0e75b6&style=flat" alt="subhajitrath3 views" /> 
 </p>
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhajitrath3&langs_count=8&theme=radical" alt=subhajitrath3 />
+---
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=subhajitrath3&show_icons=true&locale=en&theme=blue-green" alt="subhajitrath3" /></p>
+## 🙋‍♂️ About Me
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=subhajitrath3&theme=highcontrast" alt="subhajitrath3" /></p>
+- 🎓 **Computer Science & Engineering** at **SOA University**
+- 💻 Passionate about **Full-stack development**, specifically the **MERN Stack** and **Java**
+- ☁️ Enthusiast in **Cloud / DevOps** technologies
+- 🧩 Focused on **Problem solving** and **Building practical applications**
+- 💬 Ask me about: React, Node.js, Express, MongoDB, Java, and Cloud Deployments.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/subhajitrath3">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=subhajitrath3&theme=cobalt2" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=subhajitrath3&theme=vision_friendly_dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subhajitrath3&theme=radical" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=subhajitrath3&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhajitrath3&theme=gruvbox" height="180em" />
+---
+
+## 🌐 Connect with me:
+
+<div align="center"> 
+  <a href="https://github.com/subhajitrath3" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/Subhajit Rath" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/rath_subha80633" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://instagram.com/somusubhrath" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="mailto:subhajitrath3@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=subhajitrath3&theme=merko"/>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=subhajitrath3&theme=radical&margin-w=15" alt="subhajitrath3 trophies" />
+  </a> 
+</p>
+
+---
+
+## 🏅 Holopin Badges
+
+<p align="center">
+  <a href="https://holopin.io/@subhajitrath3">
+    <img src="https://holopin.me/subhajitrath3" alt="subhajitrath3's Holopin badges" />
+  </a>
+</p>
+
+---
+
+## 💻 Languages and Tools
+
+<p align="left">
+  <strong>Languages:</strong><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+</p>
+
+<p align="left">
+  <strong>Frontend:</strong><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
+</p>
+
+<p align="left">
+  <strong>Backend & Databases:</strong><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40"/>
+</p>
+
+<p align="left">
+  <strong>Cloud / DevOps & Other Tools:</strong><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+</p>
+
+---
+
+## 💼 Experience
+
+**Astrared Software Labs Pvt. Ltd.**
+- *Full Stack Web Development Intern* 
+- *June 2025 – September 2025*
+- Gained hands-on experience in full-stack web development.
+
+---
+
+## 🚀 Projects
+
+- **HAVitSync** – Daily Routine Scheduling Portal
+  - *Tech Stack*: React, Node.js, Express, MongoDB (MERN)
+- **MEDSYNC** – Unified Medical Access Platform
+  - *Tech Stack*: MERN Stack, Tailwind CSS
+- **SHOPXY** – E-Commerce Website
+  - *Tech Stack*: React, Next.js, Node.js
+
+*(Check out my repositories below for the source code!)*
+
+---
+
+## 🎯 Achievements
+
+- ☁️ Google Cloud Study Jam
+- 👧 GirlScript Summer of Code
+- 🎃 Hacktoberfest
+- 🏫 GDG On Campus ITER
+- ⚔️ Slayground 2.0 Top 100
+- 💡 Smart India Hackathon
+- 🤖 AI Symposium Ideaathon
+- 🎤 IIIT Pitch & Win
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=subhajitrath3&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" height="190em" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhajitrath3&langs_count=6&theme=radical&layout=compact" alt="Top Languages" height="190em" />
+      </td>
+    </tr>
+  </table>
+  
+  <table>
+    <tr>
+      <td align="center">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhajitrath3&theme=radical" alt="Profile Details" />
+      </td>
+    </tr>
+  </table>
+
+  <table>
+    <tr>
+      <td align="center">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=subhajitrath3&theme=radical" alt="Most Commit Language" />
+      </td>
+      <td align="center">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subhajitrath3&theme=radical" alt="Repos Per Language" />
+      </td>
+      <td align="center">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=subhajitrath3&theme=radical" alt="Productive Time" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## ⚡ GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subhajitrath3&theme=radical" alt="GitHub Streak" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhajitrath3&theme=radical" alt="Activity Graph" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subhajitrath3/subhajitrath3/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subhajitrath3/subhajitrath3/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/subhajitrath3/subhajitrath3/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
